@@ -1,2 +1,12 @@
 secure/
 guilty_pleasures.md
+
+# *.js
+
+*.txt
+!names.txt
+
+/src/main.py
+
+content.md
+advert.html
